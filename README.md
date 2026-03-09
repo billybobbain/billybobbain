@@ -23,4 +23,4 @@ Back in the early 1990s I wrote fractal image compression experiments while in g
 
 ## Fun Fact
 
-Some of my earliest graphics programs generated fractals and maze patterns that printed directly to HP printers using PCL.
+Some of my earliest graphics programs generated Hilbert space-filling curves and maze-like patterns and sent raw PostScript directly to an Apple LaserWriter to render the images.
