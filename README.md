@@ -23,4 +23,9 @@ Back in the early 1990s I wrote fractal image compression experiments while in g
 
 ## Fun Fact
 
-Some of my earliest graphics programs generated Hilbert space-filling curves and maze-like patterns and sent raw PostScript directly to an Apple LaserWriter to render the images.
+Some of my earliest graphics experiments involved generating fractals and
+space-filling curves and sending raw PostScript to an Apple LaserWriter.
+
+Late at night in the computer lab I even experimented with early 3D visualizations
+using cheap red/blue glasses — occasionally recruiting the cleaning staff as
+unofficial testers to confirm that the effect actually worked.
